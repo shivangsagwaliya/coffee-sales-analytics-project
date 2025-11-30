@@ -6,7 +6,7 @@
 
 > **A hybrid Business Intelligence project demonstrating full-cycle data analysis: Advanced Data Cleaning in Excel  Relational Modeling & Dashboarding in Power BI.**
 
-![Dashboard Preview](/dashboard.PNG)
+![Dashboard Preview](Dashboard.PNG)
 
 
 ---
